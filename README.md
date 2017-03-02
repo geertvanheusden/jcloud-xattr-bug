@@ -46,3 +46,7 @@ Caused by: java.nio.file.FileSystemException: /data/data-container/testFile: Una
 	at org.jclouds.filesystem.strategy.internal.FilesystemStorageStrategyImpl.getBlob(FilesystemStorageStrategyImpl.java:347)
 	... 17 more
 ```
+
+### Fixed in
+
+https://github.com/jclouds/jclouds/pull/1066 / https://issues.apache.org/jira/browse/JCLOUDS-1218
