@@ -47,6 +47,6 @@ Caused by: java.nio.file.FileSystemException: /data/data-container/testFile: Una
 	... 17 more
 ```
 
-### Fixed in
+### Solution
 
-https://github.com/jclouds/jclouds/pull/1066 / https://issues.apache.org/jira/browse/JCLOUDS-1218
+Fixed in https://github.com/jclouds/jclouds/pull/1066 and Jira ticket https://issues.apache.org/jira/browse/JCLOUDS-1218 .
